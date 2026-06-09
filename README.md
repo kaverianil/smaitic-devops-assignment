@@ -1,0 +1,1 @@
+# smaitic-devops-assignment
